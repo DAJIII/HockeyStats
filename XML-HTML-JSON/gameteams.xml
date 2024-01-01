@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Team>Anaheim Ducks</Team>
+    <Replace>ANA</Replace>
+  </row>
+  <row>
+    <Team>Arizona Coyotes</Team>
+    <Replace>ARI</Replace>
+  </row>
+  <row>
+    <Team>Boston Bruins</Team>
+    <Replace>BOS</Replace>
+  </row>
+  <row>
+    <Team>Buffalo Sabres</Team>
+    <Replace>BUF</Replace>
+  </row>
+  <row>
+    <Team>Calgary Flames</Team>
+    <Replace>CGY</Replace>
+  </row>
+  <row>
+    <Team>Carolina Hurricanes</Team>
+    <Replace>CAR</Replace>
+  </row>
+  <row>
+    <Team>Chicago Blackhawks</Team>
+    <Replace>CHI</Replace>
+  </row>
+  <row>
+    <Team>Colorado Avalanche</Team>
+    <Replace>COL</Replace>
+  </row>
+  <row>
+    <Team>Columbus Blue Jackets</Team>
+    <Replace>CBJ</Replace>
+  </row>
+  <row>
+    <Team>Dallas Stars</Team>
+    <Replace>DAL</Replace>
+  </row>
+  <row>
+    <Team>Detroit Red Wings</Team>
+    <Replace>DET</Replace>
+  </row>
+  <row>
+    <Team>Edmonton Oilers</Team>
+    <Replace>EDM</Replace>
+  </row>
+  <row>
+    <Team>Florida Panthers</Team>
+    <Replace>FLA</Replace>
+  </row>
+  <row>
+    <Team>Los Angeles Kings</Team>
+    <Replace>L.A</Replace>
+  </row>
+  <row>
+    <Team>Minnesota Wild</Team>
+    <Replace>MIN</Replace>
+  </row>
+  <row>
+    <Team>Montreal Canadiens</Team>
+    <Replace>MON</Replace>
+  </row>
+  <row>
+    <Team>Nashville Predators</Team>
+    <Replace>NSH</Replace>
+  </row>
+  <row>
+    <Team>New Jersey Devils</Team>
+    <Replace>N.J</Replace>
+  </row>
+  <row>
+    <Team>New York Islanders</Team>
+    <Replace>NYI</Replace>
+  </row>
+  <row>
+    <Team>New York Rangers</Team>
+    <Replace>NYR</Replace>
+  </row>
+  <row>
+    <Team>Ottawa Senators</Team>
+    <Replace>OTT</Replace>
+  </row>
+  <row>
+    <Team>Philadelphia Flyers</Team>
+    <Replace>PHI</Replace>
+  </row>
+  <row>
+    <Team>Pittsburgh Penguins</Team>
+    <Replace>PIT</Replace>
+  </row>
+  <row>
+    <Team>San Jose Sharks</Team>
+    <Replace>S.J</Replace>
+  </row>
+  <row>
+    <Team>Seattle Kraken</Team>
+    <Replace>SEA</Replace>
+  </row>
+  <row>
+    <Team>St. Louis Blues</Team>
+    <Replace>STL</Replace>
+  </row>
+  <row>
+    <Team>Tampa Bay Lightning</Team>
+    <Replace>T.B</Replace>
+  </row>
+  <row>
+    <Team>Toronto Maple Leafs</Team>
+    <Replace>TOR</Replace>
+  </row>
+  <row>
+    <Team>Vancouver Canucks</Team>
+    <Replace>VAN</Replace>
+  </row>
+  <row>
+    <Team>Vegas Golden Knights</Team>
+    <Replace>VGK</Replace>
+  </row>
+  <row>
+    <Team>Washington Capitals</Team>
+    <Replace>WSH</Replace>
+  </row>
+  <row>
+    <Team>Winnipeg Jets</Team>
+    <Replace>WPG</Replace>
+  </row>
+</data>
